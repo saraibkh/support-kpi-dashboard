@@ -1,0 +1,1 @@
+After creating the Excel or Power BI dashboard, add screenshots in this folder.
